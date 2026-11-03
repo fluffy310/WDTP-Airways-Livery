@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <title>DW AIRLINES wordmark</title>
+  <desc>Bold black DW AIRLINES lettering on a transparent background for a yellow Airbus A320 livery.</desc>
+  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" font-weight="900">
+    <text x="24" y="166" font-size="150" letter-spacing="1">DW</text>
+    <text x="280" y="160" font-size="92" letter-spacing="5">AIRLINES</text>
+  </g>
+  <path d="M282 184 H1120" fill="none" stroke="#111111" stroke-width="10" stroke-linecap="square"/>
+</svg>
